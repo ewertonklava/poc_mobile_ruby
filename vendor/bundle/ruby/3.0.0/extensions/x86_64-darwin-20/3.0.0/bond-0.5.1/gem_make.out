@@ -1,0 +1,16 @@
+current directory: /Users/ewertonklava/Documents/Projetos_automação/automacao_app/vendor/bundle/ruby/3.0.0/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/ewertonklava/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/ewertonklava/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210331-23355-npcsh7.rb extconf.rb
+
+current directory: /Users/ewertonklava/Documents/Projetos_automação/automacao_app/vendor/bundle/ruby/3.0.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/ewertonklava/Documents/Projetos_automação/automacao_app/vendor/bundle/ruby/3.0.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/ewertonklava/Documents/Projetos_automação/automacao_app/vendor/bundle/ruby/3.0.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension

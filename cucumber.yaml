@@ -1,0 +1,14 @@
+##YAML Template
+default: -p Nexus5 -p html -p cucumber
+ci: -p Pixel3a -p json_report
+cucumber: --publish-quiet
+
+# Devices
+Nexus5: DEVICE_TYPE=Nexus5
+Nexus5x: DEVICE_TYPE=Nexus5x
+Nexus4: DEVICE_TYPE=Nexus4
+Pixel3a: DEVICE_TYPE=Pixel3a
+
+# Reports
+html: --format pretty --format html --out=reports/report.html
+json: --format pretty --format json --out=reports/report.json

@@ -1,0 +1,23 @@
+Nexus5:
+  caps:
+    deviceName: "Nexus5"
+    platformName: "Android"
+    app: 'apk/TrianguloApp.apk'
+    newCommandTimeout: "10000"
+    autoGrantPermissions: true
+    
+Pixel3a:
+  caps:
+    deviceName: "Pixel3a"
+    platformName: "Android"
+    app: 'apk/desafio-ame-digital.apk'
+    newCommandTimeout: "10000"
+    autoGrantPermissions: true
+
+Nexus5x:
+  caps:
+    deviceName: "Nexus5x"
+    platformName: "Android"
+    app: 'apk/TrianguloApp.apk'
+    newCommandTimeout: "10000"
+    autoGrantPermissions: true
